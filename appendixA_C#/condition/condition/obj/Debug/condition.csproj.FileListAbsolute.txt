@@ -1,0 +1,7 @@
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\condition\condition\obj\Debug\ResolveAssemblyReference.cache
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\condition\condition\bin\Debug\condition.exe
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\condition\condition\bin\Debug\condition.pdb
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\condition\condition\obj\Debug\condition.exe
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\condition\condition\obj\Debug\condition.pdb
+E:\Unity Book\CD\appendixA_C#\condition\condition\obj\Debug\condition.exe
+E:\Unity Book\CD\appendixA_C#\condition\condition\obj\Debug\condition.pdb

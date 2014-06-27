@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\stringsample\stringsample\bin\Debug\stringsample.exe
+E:\Unity Book\CD\appendixA_C#\stringsample\stringsample\bin\Debug\stringsample.pdb
+E:\Unity Book\CD\appendixA_C#\stringsample\stringsample\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\stringsample\stringsample\obj\Debug\stringsample.exe
+E:\Unity Book\CD\appendixA_C#\stringsample\stringsample\obj\Debug\stringsample.pdb

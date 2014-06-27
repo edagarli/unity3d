@@ -1,0 +1,15 @@
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\obj\Debug\HelloWorld.exe
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\obj\Debug\HelloWorld.pdb
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\bin\Debug\HelloWorld.exe
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\Learning Unity3D CD Data\book\new book\CD\appendixA_C#\helloworld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\helloworld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Unity Book\CD\appendixA_C#\helloworld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Unity Book\CD\appendixA_C#\helloworld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Unity Book\CD\appendixA_C#\helloworld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Unity Book\CD\appendixA_C#\helloworld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache

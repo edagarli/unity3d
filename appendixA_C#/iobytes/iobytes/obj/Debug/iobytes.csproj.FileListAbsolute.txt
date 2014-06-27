@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\iobytes\iobytes\bin\Debug\iobytes.exe
+E:\Unity Book\CD\appendixA_C#\iobytes\iobytes\bin\Debug\iobytes.pdb
+E:\Unity Book\CD\appendixA_C#\iobytes\iobytes\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\iobytes\iobytes\obj\Debug\iobytes.exe
+E:\Unity Book\CD\appendixA_C#\iobytes\iobytes\obj\Debug\iobytes.pdb

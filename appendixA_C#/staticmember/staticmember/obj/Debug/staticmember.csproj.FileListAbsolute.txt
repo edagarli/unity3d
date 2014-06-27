@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\staticmember\staticmember\bin\Debug\staticmember.exe
+E:\Unity Book\CD\appendixA_C#\staticmember\staticmember\bin\Debug\staticmember.pdb
+E:\Unity Book\CD\appendixA_C#\staticmember\staticmember\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\staticmember\staticmember\obj\Debug\staticmember.exe
+E:\Unity Book\CD\appendixA_C#\staticmember\staticmember\obj\Debug\staticmember.pdb

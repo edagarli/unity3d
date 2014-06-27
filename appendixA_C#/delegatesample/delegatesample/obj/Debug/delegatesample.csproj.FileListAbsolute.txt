@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\delegatesample\delegatesample\bin\Debug\delegatesample.exe
+E:\Unity Book\CD\appendixA_C#\delegatesample\delegatesample\bin\Debug\delegatesample.pdb
+E:\Unity Book\CD\appendixA_C#\delegatesample\delegatesample\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\delegatesample\delegatesample\obj\Debug\delegatesample.exe
+E:\Unity Book\CD\appendixA_C#\delegatesample\delegatesample\obj\Debug\delegatesample.pdb

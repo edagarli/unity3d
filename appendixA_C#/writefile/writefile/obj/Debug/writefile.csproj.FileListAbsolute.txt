@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\writefile\writefile\bin\Debug\writefile.exe
+E:\Unity Book\CD\appendixA_C#\writefile\writefile\bin\Debug\writefile.pdb
+E:\Unity Book\CD\appendixA_C#\writefile\writefile\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\writefile\writefile\obj\Debug\writefile.exe
+E:\Unity Book\CD\appendixA_C#\writefile\writefile\obj\Debug\writefile.pdb

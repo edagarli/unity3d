@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\readfile\readfile\bin\Debug\readfile.exe
+E:\Unity Book\CD\appendixA_C#\readfile\readfile\bin\Debug\readfile.pdb
+E:\Unity Book\CD\appendixA_C#\readfile\readfile\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\readfile\readfile\obj\Debug\readfile.exe
+E:\Unity Book\CD\appendixA_C#\readfile\readfile\obj\Debug\readfile.pdb

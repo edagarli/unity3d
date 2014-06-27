@@ -1,0 +1,72 @@
+Initialize engine version: 4.0.0f7
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.697]
+    Renderer: NVIDIA GeForce 8600M GT 
+    Vendor:   NVIDIA
+    VRAM:     626 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityNetwork.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityNetwork.dll into Unity Child Domain
+- Completed reload, in  0.091 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\System.dll (this message is harmless)
+连接到服务器
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initialize engine version: 4.0.0f7
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.697]
+    Renderer: NVIDIA GeForce 8600M GT 
+    Vendor:   NVIDIA
+    VRAM:     626 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityNetwork.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityNetwork.dll into Unity Child Domain
+- Completed reload, in  0.086 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\System.dll (this message is harmless)
+连接到服务器
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Initialize engine version: 4.0.0f7
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.697]
+    Renderer: NVIDIA GeForce 8600M GT 
+    Vendor:   NVIDIA
+    VRAM:     626 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityNetwork.dll (this message is harmless)
+Loading E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\UnityNetwork.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Unity Book_A8Computer\CD\builds\chat\client_Data\Managed\System.dll (this message is harmless)
+连接到服务器
+ 
+(Filename: C:/BuildAgent/work/812c4f5049264fad/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+

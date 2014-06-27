@@ -1,0 +1,5 @@
+E:\Unity Book\CD\appendixA_C#\delegateevent\delegateevent\bin\Debug\delegateevent.exe
+E:\Unity Book\CD\appendixA_C#\delegateevent\delegateevent\bin\Debug\delegateevent.pdb
+E:\Unity Book\CD\appendixA_C#\delegateevent\delegateevent\obj\Debug\ResolveAssemblyReference.cache
+E:\Unity Book\CD\appendixA_C#\delegateevent\delegateevent\obj\Debug\delegateevent.exe
+E:\Unity Book\CD\appendixA_C#\delegateevent\delegateevent\obj\Debug\delegateevent.pdb
