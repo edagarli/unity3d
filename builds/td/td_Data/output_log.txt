@@ -1,0 +1,21 @@
+Initialize engine version: 4.0.0f7
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.697]
+    Renderer: NVIDIA GeForce G210 
+    Vendor:   NVIDIA
+    VRAM:     849 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Book_home\CD\builds\td\td_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Book_home\CD\builds\td\td_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_home\CD\builds\td\td_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Book_home\CD\builds\td\td_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Book_home\CD\builds\td\td_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Unity Book_home\CD\builds\td\td_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.442 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+Platform assembly: E:\Unity Book_home\CD\builds\td\td_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: E:\Unity Book_home\CD\builds\td\td_Data\Managed\UnityScript.Lang.dll (this message is harmless)
